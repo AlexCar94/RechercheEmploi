@@ -1,0 +1,6 @@
+Nom : Carlier
+Prénom : Alex
+Date de naissance : 27-04-1994
+Email : email@gmail.com
+Adresse postale : Rue bien connue 4, 6220 Fleurus
+Téléphone : 0123456789
